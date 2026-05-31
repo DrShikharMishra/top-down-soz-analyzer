@@ -21,3 +21,5 @@ print(results.head())
 
 # Data Preparation
 The pipeline expects standard MNE-compatible .edf files. No clinical metadata is required to run the biomarker analysis.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DrShikharMishra/top-down-soz-analyzer/blob/main/topdownapproach.ipynb)
